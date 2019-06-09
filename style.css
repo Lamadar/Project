@@ -1,0 +1,22 @@
+#main{
+    text-align: center;
+}
+#title{
+    font-size: 4rem;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+#main{
+    background-color: #eee;
+}
+#img-div{
+    background-color: #fff;
+}
+ul{
+    max-width: 900px;
+    text-align: justify;
+margin: 0 auto;
+}
+h3,h2{
+    margin: 50px;
+}
